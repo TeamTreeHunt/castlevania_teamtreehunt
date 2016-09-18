@@ -1,0 +1,78 @@
+﻿Build started 13/09/2014 8:07:21 AM.
+     1>Project "E:\Program Files (x86)\1. ĐỒ ÁN UIT\9. Nhap Mon Phat Trien Game\1. Đồ Án\CastleVania\Backup\CastleVania-23.8-v2(Final)\CastleVania\CastleVania.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt SceneGame.cpp
+         SceneGame.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>e:\program files (x86)\1. đồ án uit\9. nhap mon phat trien game\1. đồ án\castlevania\backup\castlevania-23.8-v2(final)\castlevania\scenegame.cpp(198): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>e:\program files (x86)\1. đồ án uit\9. nhap mon phat trien game\1. đồ án\castlevania\backup\castlevania-23.8-v2(final)\castlevania\scenegame.cpp(258): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+     1>e:\program files (x86)\1. đồ án uit\9. nhap mon phat trien game\1. đồ án\castlevania\backup\castlevania-23.8-v2(final)\castlevania\scenegame.cpp(339): warning C4244: 'argument' : conversion from 'FLOAT' to 'int', possible loss of data
+     1>e:\program files (x86)\1. đồ án uit\9. nhap mon phat trien game\1. đồ án\castlevania\backup\castlevania-23.8-v2(final)\castlevania\scenegame.cpp(365): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\program files (x86)\1. đồ án uit\9. nhap mon phat trien game\1. đồ án\castlevania\backup\castlevania-23.8-v2(final)\castlevania\scenegame.cpp(366): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Program Files (x86)\1. ĐỒ ÁN UIT\9. Nhap Mon Phat Trien Game\1. Đồ Án\CastleVania\Backup\CastleVania-23.8-v2(Final)\Debug\CastleVania.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib dsound.lib dxguid.lib dxerr.lib winmm.lib dinput8.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Program Files (x86)\1. ĐỒ ÁN UIT\9. Nhap Mon Phat Trien Game\1. Đồ Án\CastleVania\Backup\CastleVania-23.8-v2(Final)\Debug\CastleVania.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Program Files (x86)\1. ĐỒ ÁN UIT\9. Nhap Mon Phat Trien Game\1. Đồ Án\CastleVania\Backup\CastleVania-23.8-v2(Final)\Debug\CastleVania.lib" /MACHINE:X86 Debug\Axe.obj
+         Debug\BlackKnight.obj
+         Debug\BlackLeopard.obj
+         Debug\Boomerang.obj
+         Debug\Candle.obj
+         Debug\CastleGate.obj
+         Debug\CAudio.obj
+         Debug\CCamera.obj
+         Debug\Dagger.obj
+         Debug\Door.obj
+         Debug\DragonSkullCannon.obj
+         Debug\dsutil.obj
+         Debug\EndGameScene.obj
+         Debug\FallingCastle.obj
+         Debug\FireBall.obj
+         Debug\FireBomb.obj
+         Debug\FireDie.obj
+         Debug\FishMan.obj
+         Debug\Font.obj
+         Debug\GameScore.obj
+         Debug\IntroGame.obj
+         Debug\Lake.obj
+         Debug\LittleSnake.obj
+         Debug\LKRect.obj
+         Debug\MagicalCrystal.obj
+         Debug\Medusa.obj
+         Debug\MorningStar.obj
+         Debug\MorningStarSprite.obj
+         Debug\MovingPlatform.obj
+         Debug\OpenDoor.obj
+         Debug\PhantomBat.obj
+         Debug\QGameObject.obj
+         Debug\QueenMedusa.obj
+         Debug\Scene.obj
+         Debug\SceneGame.obj
+         Debug\SceneMain.obj
+         Debug\SceneMenu.obj
+         Debug\SoundManager.obj
+         Debug\Stair.obj
+         Debug\StupidDoor.obj
+         Debug\ThreeWater.obj
+         Debug\VampireBat.obj
+         Debug\Water.obj
+         Debug\Weapon.obj
+         Debug\Zombie.obj
+         Debug\DynamicObject.obj
+         Debug\Game.obj
+         Debug\Global.obj
+         Debug\main.obj
+         Debug\QNode.obj
+         Debug\GameObject.obj
+         Debug\Simon.obj
+         Debug\Singleton.obj
+         Debug\CSprite.obj
+         Debug\CTexture.obj
+         Debug\QBackground.obj
+         Debug\Tile.obj
+         Debug\LargeCandle.obj
+         Debug\Utils.obj
+         Debug\Brick.obj
+         CastleVania.vcxproj -> E:\Program Files (x86)\1. ĐỒ ÁN UIT\9. Nhap Mon Phat Trien Game\1. Đồ Án\CastleVania\Backup\CastleVania-23.8-v2(Final)\Debug\CastleVania.exe
+     1>Done Building Project "E:\Program Files (x86)\1. ĐỒ ÁN UIT\9. Nhap Mon Phat Trien Game\1. Đồ Án\CastleVania\Backup\CastleVania-23.8-v2(Final)\CastleVania\CastleVania.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.64

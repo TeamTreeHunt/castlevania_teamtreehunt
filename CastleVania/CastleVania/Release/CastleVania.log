@@ -1,0 +1,131 @@
+﻿Build started 06/09/2014 2:37:44 PM.
+     1>Project "E:\Program Files (x86)\1. ĐỒ ÁN UIT\9. Nhap Mon Phat Trien Game\1. Đồ Án\CastleVania\Backup\CastleVania-23.8-v2(Final)\CastleVania\CastleVania.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\CastleVania.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Axe.cpp BlackKnight.cpp BlackLeopard.cpp Boomerang.cpp Candle.cpp CastleGate.cpp CAudio.cpp CCamera.cpp Dagger.cpp Door.cpp DragonSkullCannon.cpp dsutil.cpp EndGameScene.cpp FallingCastle.cpp FireBall.cpp FireBomb.cpp FireDie.cpp FishMan.cpp Font.cpp GameScore.cpp IntroGame.cpp Lake.cpp LittleSnake.cpp LKRect.cpp MagicalCrystal.cpp Medusa.cpp MorningStar.cpp MorningStarSprite.cpp MovingPlatform.cpp OpenDoor.cpp PhantomBat.cpp QGameObject.cpp QueenMedusa.cpp Scene.cpp SceneGame.cpp SceneMain.cpp SceneMenu.cpp SoundManager.cpp Stair.cpp StupidDoor.cpp ThreeWater.cpp VampireBat.cpp Water.cpp Weapon.cpp Zombie.cpp DynamicObject.cpp Game.cpp Global.cpp main.cpp QNode.cpp GameObject.cpp Simon.cpp Singleton.cpp CSprite.cpp CTexture.cpp QBackground.cpp Tile.cpp LargeCandle.cpp Utils.cpp Brick.cpp
+         Axe.cpp
+     1>Axe.cpp(56): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         BlackKnight.cpp
+     1>BlackKnight.cpp(20): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         BlackLeopard.cpp
+     1>BlackLeopard.cpp(170): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Boomerang.cpp
+     1>Boomerang.cpp(56): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Candle.cpp
+     1>Candle.cpp(15): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         CastleGate.cpp
+     1>CastleGate.cpp(18): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         CAudio.cpp
+     1>CAudio.cpp(66): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         CCamera.cpp
+     1>CCamera.cpp(73): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Dagger.cpp
+     1>Dagger.cpp(17): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Door.cpp
+     1>Door.cpp(19): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         DragonSkullCannon.cpp
+     1>DragonSkullCannon.cpp(66): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         dsutil.cpp
+     1>dsutil.cpp(1649): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         EndGameScene.cpp
+     1>EndGameScene.cpp(45): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         FallingCastle.cpp
+     1>FallingCastle.cpp(66): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         FireBall.cpp
+     1>FireBall.cpp(32): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         FireBomb.cpp
+     1>FireBomb.cpp(147): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         FireDie.cpp
+     1>FireDie.cpp(161): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         FishMan.cpp
+     1>FishMan.cpp(177): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Font.cpp
+     1>Font.cpp(94): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         GameScore.cpp
+     1>GameScore.cpp(152): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Compiling...
+         IntroGame.cpp
+     1>IntroGame.cpp(68): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Lake.cpp
+     1>Lake.cpp(19): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         LittleSnake.cpp
+     1>LittleSnake.cpp(61): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         LKRect.cpp
+     1>LKRect.cpp(48): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         MagicalCrystal.cpp
+     1>MagicalCrystal.cpp(44): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Medusa.cpp
+     1>Medusa.cpp(58): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         MorningStar.cpp
+     1>MorningStar.cpp(183): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         MorningStarSprite.cpp
+     1>MorningStarSprite.cpp(96): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         MovingPlatform.cpp
+     1>MovingPlatform.cpp(26): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         OpenDoor.cpp
+     1>OpenDoor.cpp(109): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         PhantomBat.cpp
+     1>PhantomBat.cpp(332): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         QGameObject.cpp
+     1>QGameObject.cpp(312): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         QueenMedusa.cpp
+     1>QueenMedusa.cpp(315): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Scene.cpp
+     1>Scene.cpp(35): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         SceneGame.cpp
+     1>SceneGame.cpp(652): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         SceneMain.cpp
+     1>SceneMain.cpp(78): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         SceneMenu.cpp
+     1>SceneMenu.cpp(115): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         SoundManager.cpp
+     1>SoundManager.cpp(187): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Stair.cpp
+     1>Stair.cpp(18): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         StupidDoor.cpp
+     1>StupidDoor.cpp(120): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Compiling...
+         ThreeWater.cpp
+     1>ThreeWater.cpp(37): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         VampireBat.cpp
+     1>VampireBat.cpp(69): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Water.cpp
+     1>Water.cpp(50): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Weapon.cpp
+     1>Weapon.cpp(119): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Zombie.cpp
+     1>Zombie.cpp(17): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         DynamicObject.cpp
+     1>DynamicObject.cpp(163): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Game.cpp
+     1>Game.cpp(290): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Global.cpp
+     1>Global.cpp(88): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         main.cpp
+     1>main.cpp(12): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         QNode.cpp
+     1>QNode.cpp(47): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         GameObject.cpp
+     1>GameObject.cpp(164): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Simon.cpp
+     1>Simon.cpp(1574): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Singleton.cpp
+     1>Singleton.cpp(188): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         CSprite.cpp
+     1>CSprite.cpp(177): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         CTexture.cpp
+     1>CTexture.cpp(81): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         QBackground.cpp
+     1>QBackground.cpp(147): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Tile.cpp
+     1>Tile.cpp(22): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         LargeCandle.cpp
+     1>LargeCandle.cpp(15): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Utils.cpp
+     1>Utils.cpp(42): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Brick.cpp
+     1>Brick.cpp(18): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+     1>Done Building Project "E:\Program Files (x86)\1. ĐỒ ÁN UIT\9. Nhap Mon Phat Trien Game\1. Đồ Án\CastleVania\Backup\CastleVania-23.8-v2(Final)\CastleVania\CastleVania.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.71
